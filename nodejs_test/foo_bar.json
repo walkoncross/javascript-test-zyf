@@ -1,0 +1,10 @@
+[
+  {
+    "foo":0,
+    "bar": false
+  },
+  {
+    "foo":1,
+    "bar":true 
+  }
+]
