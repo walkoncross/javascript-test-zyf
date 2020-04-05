@@ -1,3 +1,6 @@
 [submodule "node_crash_course"]
 	path = node_crash_course
 	url = https://github.com/bradtraversy/node_crash_course.git
+[submodule "typescript-starter"]
+	path = typescript-starter
+	url = https://github.com/bitjson/typescript-starter
